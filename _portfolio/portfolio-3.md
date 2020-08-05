@@ -1,6 +1,6 @@
 ---
 title: "Sales Forecasting"
-excerpt: "Plan your purchases on ebay! <br/><img src='/images/lstm.jpg'>"
+excerpt: "Use ML to forecast product sales <br/><img src='/images/lstm.jpg'>"
 collection: portfolio
 ---
 
