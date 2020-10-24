@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Survival Analysis of Myelodysplastic Syndrome (MDS) Patients with Abnormal Karyotype - A Single Group Experience "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'I analyzed karyotype data for patients with MDS, and related different genetic abnormalities to the severity of the disease.'
+date: 2012-11-16
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://ashpublications.org/blood/article/120/21/4952/87191/Survival-Analysis-of-Myelodysplastic-Syndrome-MDS'
+citation: 'Muhammad Nadeem, Naomi Galili, Muhammad Mumtaz, Peter Daya, Jason Cheskis, Azra Raza; Survival Analysis of Myelodysplastic Syndrome (MDS) Patients with Abnormal Karyotype - A Single Group Experience. Blood 2012; 120 (21): 4952. doi: https://doi.org/10.1182'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+I analyzed karyotype data for patients with MDS, and related different genetic abnormalities to the severity of the disease.
